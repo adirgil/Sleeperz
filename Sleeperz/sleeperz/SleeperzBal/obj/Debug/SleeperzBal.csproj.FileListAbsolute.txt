@@ -1,0 +1,10 @@
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\bin\Debug\SleeperzBal.dll
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\bin\Debug\SleeperzBal.pdb
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\bin\Debug\SleeperzDal.dll
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\bin\Debug\SleeperzDal.pdb
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\bin\Debug\SleeperzDal.dll.config
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\obj\Debug\SleeperzBal.csprojAssemblyReference.cache
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\obj\Debug\SleeperzBal.csproj.CoreCompileInputs.cache
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\obj\Debug\SleeperzBal.csproj.CopyComplete
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\obj\Debug\SleeperzBal.dll
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzBal\obj\Debug\SleeperzBal.pdb

@@ -1,0 +1,6 @@
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzDal\bin\Debug\SleeperzDal.dll.config
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzDal\bin\Debug\SleeperzDal.dll
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzDal\bin\Debug\SleeperzDal.pdb
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzDal\obj\Debug\SleeperzDal.csproj.CoreCompileInputs.cache
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzDal\obj\Debug\SleeperzDal.dll
+C:\Users\adirg\Desktop\תוכנה שנה ב סמ ב\Sleeperz\sleeperz\SleeperzDal\obj\Debug\SleeperzDal.pdb
